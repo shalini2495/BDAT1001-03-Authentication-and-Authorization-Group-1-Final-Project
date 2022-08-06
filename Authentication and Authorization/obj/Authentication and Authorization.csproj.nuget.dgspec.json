@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shali\\OneDrive\\Desktop\\IES Final Project\\Authentication and Authorization\\Authentication and Authorization\\Authentication and Authorization.csproj": {}
+    "C:\\Users\\rinri\\OneDrive\\Documents\\Big Data Analytics Couse Documents\\BDAT1001\\Final Project\\Final Project\\Authentication and Authorization\\Authentication and Authorization.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shali\\OneDrive\\Desktop\\IES Final Project\\Authentication and Authorization\\Authentication and Authorization\\Authentication and Authorization.csproj": {
+    "C:\\Users\\rinri\\OneDrive\\Documents\\Big Data Analytics Couse Documents\\BDAT1001\\Final Project\\Final Project\\Authentication and Authorization\\Authentication and Authorization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shali\\OneDrive\\Desktop\\IES Final Project\\Authentication and Authorization\\Authentication and Authorization\\Authentication and Authorization.csproj",
+        "projectUniqueName": "C:\\Users\\rinri\\OneDrive\\Documents\\Big Data Analytics Couse Documents\\BDAT1001\\Final Project\\Final Project\\Authentication and Authorization\\Authentication and Authorization.csproj",
         "projectName": "Authentication and Authorization",
-        "projectPath": "C:\\Users\\shali\\OneDrive\\Desktop\\IES Final Project\\Authentication and Authorization\\Authentication and Authorization\\Authentication and Authorization.csproj",
-        "packagesPath": "C:\\Users\\shali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shali\\OneDrive\\Desktop\\IES Final Project\\Authentication and Authorization\\Authentication and Authorization\\obj\\",
+        "projectPath": "C:\\Users\\rinri\\OneDrive\\Documents\\Big Data Analytics Couse Documents\\BDAT1001\\Final Project\\Final Project\\Authentication and Authorization\\Authentication and Authorization.csproj",
+        "packagesPath": "C:\\Users\\rinri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rinri\\OneDrive\\Documents\\Big Data Analytics Couse Documents\\BDAT1001\\Final Project\\Final Project\\Authentication and Authorization\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\shali\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\rinri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
